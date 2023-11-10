@@ -1,0 +1,7 @@
+Características:
+edad - Edad
+td - Dolor toráxico experimentado (Valor 1: angina típica, Valor 2: angina atípica, Valor 3: dolor no anginoso, Valor 4: asintomático)
+par - presión arterial en reposo(mm Hg)
+col - Colesterol(mg/dl)
+fcm - Frecuencia cardíaca máxima
+riesgo - (alto, bajo)
